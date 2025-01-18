@@ -15,7 +15,7 @@ export default function Main() {
 
   return (
     <main>
-      <h1>&quot;Liberte a magia da programação com a lâmpada de Aladim.&quot;</h1>
+      <h1>&quot;Liberte a magia da programação com a lâmpada de Aladdin.&quot;</h1>
       <img src={aladdin} alt="Imagem lâmpada mágica" />
       <button onClick={genioDaLampada}>Clique Aqui</button>
     </main>
